@@ -1,0 +1,2 @@
+bootstrap: curl -fsSL https://dot.net/v1/dotnet-install.sh |
+  bash -s -- --jsonfile /data/project/Src/global.json -i /usr/share/dotnet
